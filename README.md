@@ -1,6 +1,6 @@
 # todoapp
 
-Todo app built with react-admin. It shows how to use react-admin in headless mode to build a custom UI.
+Esta aplicación web permite a los usuarios gestionar tareas de forma sencilla y eficiente. El proyecto aborda la necesidad de una interfaz amigable para añadir, editar, eliminar y listar tareas. Se aplicaron metodologías de desarrollo como TDD y se utilizaron herramientas modernas como Git, Docker y Sequelize..
 
 <a href="https://marmelab.com/react-admin-todo/"><img width="711" alt="todo" src="https://github.com/user-attachments/assets/55a08dc7-f4c5-4f12-af96-ca25029a5a65" /></a>
 
